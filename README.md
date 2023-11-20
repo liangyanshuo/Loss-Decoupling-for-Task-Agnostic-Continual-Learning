@@ -8,7 +8,7 @@ Continual learning requires the model to learn multiple tasks in a sequential or
 </div>
 
 <center>
-<img src="LODE.png" style="zoom:30%" >
+<img src="joint.png">
 </center>
 
 ## Requisite
