@@ -1,5 +1,5 @@
 # Loss Decoupling for Task-Agnostic Continual Learning
-Code For NeurIPS'2023 paper "[Loss Decoupling for Task-Agnostic Continual Learning]"
+Code For NeurIPS'2023 paper "[Loss Decoupling for Task-Agnostic Continual Learning](https://openreview.net/forum?id=9Oi3YxIBSa)"
 
 ## Introduction
 
@@ -22,6 +22,7 @@ This code is implemented in PyTorch, and we have tested the code under the follo
 ## run for experiments
 
 ```
+bash Script/er.sh
 bash Script/derpp.sh
 bash Script/esmer.sh
 ```
